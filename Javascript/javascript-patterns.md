@@ -1,12 +1,12 @@
 # Javascript patterns
 
-## Why?
+## Por que?
 
-> JavaScript patterns can improve code reusability, maintainability, clarity, and efficiency.
-> Additionally, these patterns can help increase code performance and compatibility with other libraries,
-> making the developer more skilled and efficient.
+> Padrões em javascript podem melhorar o reuso, manutenibilidade, a clareza e eficiência do código.
+> Além disso, esses padrões podem ajudar a aumentar o desempenho e a compatibilidade
+> com outras bibliotecas, tornando o desenvolvedor mais habilidoso e eficiente.
 
-## Topics
+## Tópicos
 
 - IIFE (Immediately Invoked Function Expression)
   - <https://flaviocopes.com/javascript-iife/>
