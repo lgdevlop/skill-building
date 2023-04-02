@@ -1,15 +1,15 @@
 # React Patterns
 
-## Why?
+## Por que?
 
-> To create React components effectively, it's important to understand and apply design patterns.
-> Patterns help with decision-making, making the code more maintainable, reusable, modular, and testable,
-> while also promoting clear separation of responsibilities.
+> Para criar componentes React de forma eficaz, é importante compreender e aplicar padrões de design.
+> Os padrões ajudam na tomada de decisões, tornando o código mais fácil de manter, reutilizar, modularizar e testar,
+> além de promover a clara separação de responsabilidades.
 >
-> Although some of the articles are outdated, they provide a good starting point for understanding the
-> concepts introduced in the previous paragraph.
+> Embora alguns dos artigos sejam antigos, eles fornecem um bom ponto de partida para entender os conceitos apresentados
+> no parágrafo anterior.
 
-## Topics
+## Tópicos
 
 - React Component Composition(HOCs, CloneElement, RenderProps)
   - <https://medium.com/trabe/advanced-composition-in-react-cloneelement-hocs-and-renderprops-a20971aec50e>
