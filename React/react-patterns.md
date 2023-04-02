@@ -56,6 +56,7 @@
   - <https://epicreact.dev/soul-crushing-components/>
   - <https://www.smashingmagazine.com/2021/08/compound-components-react/>
   - <https://betterprogramming.pub/compound-component-design-pattern-in-react-34b50e32dea0>
+  - <https://levelup.gitconnected.com/how-to-use-component-composition-to-create-a-flexible-compound-component-in-react-4024660b9613>
 
 - Recursive Components
   - <https://blog.logrocket.com/recursive-components-react-real-world-example/>
