@@ -10,3 +10,4 @@
 ## Topics
 
 - [React Patterns](./React/react-patterns.md)
+- [Javascript Patterns](./Javascript/javascript-patterns.md)
