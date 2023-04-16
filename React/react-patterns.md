@@ -24,6 +24,9 @@
   - <https://oieduardorabelo.medium.com/react-avan%C3%A7ado-utilizando-props-children-como-fun%C3%A7%C3%A3o-de-primeira-classe-f6be8acdfaf1>
   - <https://betterprogramming.pub/passing-data-to-props-children-in-react-5399baea0356>
   - <https://legacy.reactjs.org/docs/render-props.html>
+  - <https://javascript.plainenglish.io/5-react-design-patterns-you-should-know-629030e2e2c7>
+  - <https://dmitripavlutin.com/7-architectural-attributes-of-a-reliable-react-component/>
+  - <https://dmitripavlutin.com/orthogonal-react-components/>
 
 - Code smells
   - <https://hackernoon.com/lessons-learned-common-react-code-smells-and-how-to-avoid-them-f253eb9696a4>
@@ -36,6 +39,7 @@
   - <https://legacy.reactjs.org/docs/forms.html#controlled-components>
   - <https://legacy.reactjs.org/docs/uncontrolled-components.html>
   - <https://blog.logrocket.com/controlled-vs-uncontrolled-components-in-react/>
+  - <https://dmitripavlutin.com/controlled-inputs-using-react-hooks/>
 
 - Presentational and container components
   - <https://github.com/krasimir/react-in-patterns/blob/master/book/chapter-06/README.md>
